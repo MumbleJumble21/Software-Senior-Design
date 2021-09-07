@@ -31,7 +31,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+[Plan](https://chrishayo.github.io/NasaRobtoicMiningFall2021/)
 [Link](url) and ![Image](src)
 ```
 
