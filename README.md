@@ -7,7 +7,7 @@
 >* Christian Haworth - chaworth2018@my.fit.edu
 >* Abdulaziz Al Badi - aalbadi2017@my.fit.edu
 
-**Faculty Sponsor:** Marius Silaghi - msilaghi@fit.edu
+**Faculty Sponsor:** Dr. Marius Silaghi - msilaghi@fit.edu
 
 ### Fall Semester 2021
 
