@@ -1,6 +1,6 @@
 # Senior Design Webstie Fall 2021
 
-#### **Team Name:** NASA Robtoic Mining
+#### **Team Name:** NASA Robotic Mining Competition Computer Science Contribution
 
 #### Team Members:
 
