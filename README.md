@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Senior Design Webstie
 
 You can use the [editor on GitHub](https://github.com/ChrisHayo/NasaRobtoicMiningFall2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
