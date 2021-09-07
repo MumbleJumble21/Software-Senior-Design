@@ -1,6 +1,6 @@
 # Senior Design Webstie Fall 2021
 
-# **Team Name:** Nasa Robotic Mining
+# **Team Name:** NASA RMC
 
 #### Team Members:
 
