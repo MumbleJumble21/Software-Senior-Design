@@ -2,7 +2,7 @@
 
 # **Team Name:** Nasa Robotic Mining
 
-## Team Members:
+#### Team Members:
 
 >* Christian Haworth - chaworth2018@my.fit.edu
 >* Abdulaziz Al Badi - aalbadi2017@my.fit.edu
