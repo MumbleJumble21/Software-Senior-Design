@@ -5,8 +5,9 @@
 ## Team Members:
 
 >* Christian Haworth - chaworth2018@my.fit.edu
->* Abdulaziz Al Badi - 
+>* Abdulaziz Al Badi - aalbadi2017@my.fit.edu
 
+**Faculty Sponsor:** Marius Silaghi - msilaghi@fit.edu
 
 You can use the [editor on GitHub](https://github.com/ChrisHayo/NasaRobtoicMiningFall2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
