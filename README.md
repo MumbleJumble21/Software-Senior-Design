@@ -13,7 +13,7 @@
 ### Fall Semester 2021
 
 Plan (Sept 8)
-* [Plan](https://docs.google.com/document/d/1RROSlDgIAMq8Fnu7JpFBb6LnBW1c4KiWIPlniqSYxwg/edit?usp=sharing)
+* [Plan](https://drive.google.com/drive/u/1/my-drive)
 * [Presentation](url)
 
 Milestone 1 (Oct 4)
