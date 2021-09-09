@@ -1,3 +1,7 @@
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.jpg"
+     width ="250"
+     height="150" />
+     
 [NASA-Lunabotics-Info](https://www.nasa.gov/content/lunabotics-information)
 # Senior Design Webstie Fall 2021
 
