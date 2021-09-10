@@ -18,7 +18,7 @@
 
 Plan (Sept 8)
 * [Plan](https://drive.google.com/file/d/1_8q7mM-AACsWwGsIJsFEBiUEi4ok_QaE/view?usp=sharing)
-* [Presentation](https://docs.google.com/presentation/d/1JdSLupcBhTeaAkCFKRA5VnPsDwXsxjjS/edit#slide=id.p1)
+* [Presentation](https://docs.google.com/presentation/d/1JdSLupcBhTeaAkCFKRA5VnPsDwXsxjjS/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
 
 Milestone 1 (Oct 4)
 * [Requirements](url)
