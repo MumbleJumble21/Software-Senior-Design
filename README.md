@@ -14,7 +14,7 @@
 
 **Faculty Sponsor:** Dr. Marius Silaghi - msilaghi@fit.edu
 
-### Fall Semester 2021
+### First Semester
 
 Plan (Sept 8)
 * [Plan](https://drive.google.com/file/d/1_8q7mM-AACsWwGsIJsFEBiUEi4ok_QaE/view?usp=sharing)
@@ -36,3 +36,24 @@ Milestone 3 (Nov 29)
 * [Presentation](url)
 * [Progress Evaluation](url)
 
+### Second Semester
+
+Plan (Jan ?)
+* [Plan](url)
+* [Presentation](url)
+
+Milestone 4 (Feb ?)
+* [Presentation](url)
+* [Progress Evaluation](url)
+
+Milestone 5 (Mar ?)
+* [Poster](url)
+* [e-book page](url)
+* [Presentation](url)
+* [Progress Evaluation](url)
+
+Milestone 6 (Apr ?)
+* [User and/or Developer Manual](url)
+* [Demo Video](url)
+* [Presentation](url)
+* [Progress Evaluation](url)
