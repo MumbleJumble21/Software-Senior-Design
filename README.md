@@ -22,10 +22,10 @@ Plan (Sept 8)
 
 
 Milestone 1 (Oct 4)
-* [Requirements](url)
-* [Design](url)
-* [Test](url)
-* [Presentation](url)
+* [Requirements](https://docs.google.com/document/d/1pzu0VMk5pqB112BviQ9ZjfuQzv4lHs_A_5FeNchNzC8/edit?usp=sharing)
+* [Design](https://docs.google.com/document/d/1JJw86_0Xgq4yMErXI_XOkI967VWaRSXoxfOLcvU-xQk/edit?usp=sharing)
+* [Test](https://docs.google.com/document/d/1uuGmSTT17d-m7KtJD4fh3sV6-3Pf5d93/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
+* [Presentation](https://docs.google.com/presentation/d/1RNreUQcYFDkCLwyrRO-obXabLZfjq5ho/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
 * [Progress Evaluation](url)
 
 Milestone 2 (Nov 1)
