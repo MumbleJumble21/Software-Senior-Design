@@ -26,7 +26,7 @@ Milestone 1 (Oct 4)
 * [Design](https://docs.google.com/document/d/1JJw86_0Xgq4yMErXI_XOkI967VWaRSXoxfOLcvU-xQk/edit?usp=sharing)
 * [Test](https://docs.google.com/document/d/1uuGmSTT17d-m7KtJD4fh3sV6-3Pf5d93/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
 * [Presentation](https://docs.google.com/presentation/d/1RNreUQcYFDkCLwyrRO-obXabLZfjq5ho/edit?usp=sharing&ouid=109925097899709774878&rtpof=true&sd=true)
-* [Progress Evaluation](url)
+* [Progress Evaluation](https://drive.google.com/file/d/14saIfd3R8t7eTu4E9v6WsFuztQyYhe6o/view?usp=sharing)
 
 Milestone 2 (Nov 1)
 * [Presentation](url)
