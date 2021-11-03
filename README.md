@@ -30,7 +30,7 @@ Milestone 1 (Oct 4)
 
 Milestone 2 (Nov 1)
 * [Presentation](https://docs.google.com/presentation/d/1tCnLDUUATNTA00BX779tAzp4KgIftkou88k8YIOdcQo/edit?usp=sharing)
-* [Progress Evaluation](https://docs.google.com/document/d/1eUlwAz22wiWvVBOg2DThmJseCLNlwTSz_f-iJnlyhcg/edit?usp=sharing)
+* [Progress Evaluation](https://drive.google.com/file/d/1GMDec8dOaU8PLBqWeU1Ex_ALoW_wiOAZ/view?usp=sharing)
 
 Milestone 3 (Nov 29)
 * [Presentation](url)
