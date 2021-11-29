@@ -36,6 +36,7 @@ Milestone 3 (Nov 29)
 * [Presentation](https://docs.google.com/presentation/d/1ARBAIcXi8JPS8fdZl3_nFDy8NYbRSX2bpr-v6kFYFmU/edit?usp=sharing)
 * [Progress Evaluation](https://docs.google.com/document/d/1pMlAX9GwZtPH2EEaQzR2TH6PtKKavsFBJr0qsfBXx9E/edit?usp=sharing)
 
+
 ### Second Semester
 
 Plan (Jan ?)
