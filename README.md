@@ -33,7 +33,7 @@ Milestone 2 (Nov 1)
 * [Progress Evaluation](https://drive.google.com/file/d/1GMDec8dOaU8PLBqWeU1Ex_ALoW_wiOAZ/view?usp=sharing)
 
 Milestone 3 (Nov 29)
-* [Presentation](url)
+* [Presentation](https://docs.google.com/presentation/d/1ARBAIcXi8JPS8fdZl3_nFDy8NYbRSX2bpr-v6kFYFmU/edit?usp=sharing)
 * [Progress Evaluation](url)
 
 ### Second Semester
