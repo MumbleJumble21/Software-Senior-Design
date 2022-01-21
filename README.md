@@ -41,7 +41,7 @@ Milestone 3 (Nov 29)
 
 Plan (Jan 19)
 * [Plan](https://docs.google.com/document/d/1uEBNob96Yt55p2NwEaaUAUZESVers9gfYkPmtQ4KDxQ/edit?usp=sharing)
-* [Presentation](url)
+* [Presentation](https://docs.google.com/presentation/d/1y0e80jRHNpST9xMWSPcx4SYvctA5cYf4zoTWNcX1FdA/edit?usp=sharing)
 
 Milestone 4 (Feb 14)
 * [Presentation](url)
