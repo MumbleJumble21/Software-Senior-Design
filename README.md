@@ -39,21 +39,21 @@ Milestone 3 (Nov 29)
 
 ### Second Semester
 
-Plan (Jan ?)
+Plan (Jan 19)
 * [Plan](https://docs.google.com/document/d/1uEBNob96Yt55p2NwEaaUAUZESVers9gfYkPmtQ4KDxQ/edit?usp=sharing)
 * [Presentation](url)
 
-Milestone 4 (Feb ?)
+Milestone 4 (Feb 14)
 * [Presentation](url)
 * [Progress Evaluation](url)
 
-Milestone 5 (Mar ?)
+Milestone 5 (Mar 21)
 * [Poster](url)
 * [e-book page](url)
 * [Presentation](url)
 * [Progress Evaluation](url)
 
-Milestone 6 (Apr ?)
+Milestone 6 (Apr 18)
 * [User and/or Developer Manual](url)
 * [Demo Video](url)
 * [Presentation](url)
