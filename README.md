@@ -40,7 +40,7 @@ Milestone 3 (Nov 29)
 ### Second Semester
 
 Plan (Jan ?)
-* [Plan](url)
+* [Plan](https://docs.google.com/document/d/1uEBNob96Yt55p2NwEaaUAUZESVers9gfYkPmtQ4KDxQ/edit?usp=sharing)
 * [Presentation](url)
 
 Milestone 4 (Feb ?)
