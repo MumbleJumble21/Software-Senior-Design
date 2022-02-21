@@ -45,7 +45,7 @@ Plan (Jan 19)
 
 Milestone 4 (Feb 14)
 * [Presentation](url)
-* [Progress Evaluation](url)
+* [Progress Evaluation](https://docs.google.com/document/d/1q_ydSto4OxIVbBMKAdhAGqSo8oGaI0wQFVK342OTYRk/edit?usp=sharing)
 
 Milestone 5 (Mar 21)
 * [Poster](url)
