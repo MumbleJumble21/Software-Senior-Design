@@ -9,6 +9,7 @@
 
 #### Team Members:
 
+>* Leonardo Da Silva - ldasilva2021@my.fit.edu
 >* Christian Haworth - chaworth2018@my.fit.edu
 >* Abdulaziz Al Badi - aalbadi2017@my.fit.edu
 
